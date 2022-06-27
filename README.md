@@ -1,16 +1,22 @@
-### Hi there 👋
+<p align="center">
+  <img align="center" width="100%" src="https://amirrajabzade.ir/img/github.jpg" />
+  <h1 align="center">Amir Rajabzadeh</h1>
+  <p align="center">FRONT-END DEVELOPER</p>
+  <p align="center">
+<a href="https://www.linkedin.com/in/amir-rajabzadeh-ir"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"></a>
+</p>
+</p>
 
-<!--
-**admiral-r/admiral-r** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+### About Me :
+<p>I started programming in Python and later became interested in the web. My target in the future is full stack web developer. I'm interested to learning new topics after programming.</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+
+
+### Skills :
+
+<p>JavaScript - TypeScript - HTML&CSS - Angular - Angular Material - Bootstrap - Responsive Web Design - Git - Adobe Illustrator</p>
+
