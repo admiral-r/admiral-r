@@ -18,5 +18,5 @@
 
 ### Skills :
 
-<p>JavaScript - TypeScript - HTML&CSS - Vue - Nuxt - Angular - Angular Material - Bootstrap - SCSS - Responsive Web Design - Git - Adobe Illustrator</p>
+<p>JavaScript - TypeScript - HTML&CSS - Vue - Nuxt - Bootstrap - SCSS - Responsive Web Design - Git - Adobe Illustrator</p>
 
