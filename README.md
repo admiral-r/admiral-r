@@ -1,5 +1,5 @@
 <p align="center">
-  <img align="center" width="100%" src="a.jpg" />
+  <img align="center" width="100%" src="git.jpg" />
   <h1 align="center">Amir Rajabzadeh</h1>
   <p align="center">FRONT-END DEVELOPER</p>
   <p align="center">
